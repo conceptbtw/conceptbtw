@@ -39,13 +39,15 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="nodejs logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="48" alt="sqlite logo"  />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="48" alt="sqlite logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=mysql" height="48" alt="mysql logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=postgres" height="48" alt="postgresql logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="48" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="mongodb logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="48" alt="firebase logo"  />
 </div>
 
 ###
@@ -55,6 +57,10 @@
 ###
 
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=ps" height="48" alt="adobephotoshop logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="vscode logo"  />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=git" height="48" alt="git logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=github" height="48" alt="github logo"  />
